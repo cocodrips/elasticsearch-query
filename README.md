@@ -1,0 +1,3 @@
+# elasticsearch-query
+
+Elastic Searchのクエリむずい。
